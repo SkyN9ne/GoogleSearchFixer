@@ -1,7 +1,6 @@
 ## Google Search Fixer (Add-On)
 
-Override the `User-Agent` string presented to Google's Search pages to receive the
-search experience shown to Chrome on Firefox on mobile / tablet.
+Override(s) the `User-Agent` HTTP header string presented to Google's Search (and most other pages to receive the search and browsing experience of Google on Google Chrome, but in Firefox on Android 
 
 To download and install either 
 
